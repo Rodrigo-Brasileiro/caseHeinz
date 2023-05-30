@@ -13,11 +13,11 @@
 <h2>Solução:</h2>
   <p> Para o monitoramento desse tipo de cultivo, implementamos diversos sensores e atuadores que ficarão na estufa de produção, são eles:</p>
     <li>O sensor de luminosidade(LDR) que verifica a quantidade luminosa, se está de acordo com a fase atual da planta;</li>
-    <li>Sensor de temperatura e umidade do ar DHT-11, para verificar se precisam ser alteratas;</li>
+    <li>Sensor de temperatura e umidade do ar DHT-11, para verificar se precisam ser alteradas;</li>
     <li>Sensor de umidade do solo;</li>
     <li>Bomba d'água com motor, caso o solo precise ser regado, após receber dados do sensor de umidade do solo;</li>
     <li>Lâmpada Led regulável, de acordo com a luminosidade apontada pelo LDR;</li>
-    <li>Display tela LCD 16x2, o qual mostraará as informações dos sensores em sua tela por 5 segundos, deixando interado os produtores sobre a qualidade do ambiente;</li>
+    <li>Display tela LCD 16x2, o qual mostrará as informações dos sensores em sua tela por 5 segundos, deixando inteirado os produtores sobre a qualidade do ambiente;</li>
     <li>Tudo agregado a uma placa de prototipação Arduino uno R3.</li>
   <p>O projeto funciona com os sensores captando informações e regulando conforme a necessidade nas estações da planta, de forma que que deve funcionar sem interferência humana.</p>
   <p>Além dos componentes citados acima, estão presentes dois resistores de 220ohms e um resistor de 1k, ademais diversos jumpers (macho-macho, macho-fêmea e fêmea-fêmea). </p>
