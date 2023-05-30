@@ -27,7 +27,7 @@
   <li> O tinkercad não possui o sensor de umidade e temperatura DHT-11, desse modo precisa-se baixar sua biblioteca externa e a inserir no aplicativo do arduino.</p>
   <li> O nosso sistema no tinkercad possui algumas limitações, de modo que a implementação do projeto não é possível, as limitações são:
     <ol> lâmpada LED, que é representada por um simples LED amarelo e um potenciômetro que altera sua intensidade luminosa;</ol>
-    <ol> O Próprio sensor DHT-11, como ele não existe no tinkercad, colocamos um simulador dele com o sensor de temperatura com potenciômetro, em vista disso o código apresentado é o mesmo do tinkercad, ou seja, ao ser utilizado para o aplicativo arduino precisaria alterar como recebe as informações de acordo com a biblioteca externa.</ol>
+    <ol> O Próprio sensor DHT-11, como ele não existe no tinkercad, colocamos um simulador dele com o sensor de temperatura com potenciômetro, em vista disso o código apresentado é diferente do tinkercad, ou seja, ao ser utilizado para o aplicativo arduino não precisa de alteração, somente a biblioteca externa.</ol>
 
 <h2>Tecnologia usada:</h2>
   <p>Para experimentos virtuais usamos o Tinkercad com a linguagem C++.
