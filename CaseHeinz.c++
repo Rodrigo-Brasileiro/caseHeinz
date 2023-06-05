@@ -1,3 +1,5 @@
+//O ideal é o projeto ter uma shield ethernet uno para mandar os dados à nuvem, a qual por falta de conhecimentos técnicos e ausência no Tinkercad, não é possível sua presença
+//Além de um circuito com bateria de 9v integrada para ficar ligado continuamente sem riscos.
 // O projeto HEINZ agricultura vertical
 #include "dht.h" // inclui biblioteca baixada do sensor DHT-11
 #include <LiquidCrystal.h> // inclui biblioteca da tecla LCD
