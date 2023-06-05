@@ -24,6 +24,8 @@
 
  
 <h3>Observações:</h3>
+  <li>O ideal é o projeto ter uma shield ethernet uno para mandar os dados à nuvem, a qual por falta de conhecimentos técnicos e ausência no Tinkercad, não é possível sua presença</li>
+  <li>Além de um circuito com bateria de 9v integrada para ficar ligado continuamente sem riscos.</li>
   <li> O tinkercad não possui o sensor de umidade e temperatura DHT-11, desse modo precisa-se baixar sua biblioteca externa e a inserir no aplicativo do arduino.</p>
   <li> O nosso sistema no tinkercad possui algumas limitações, de modo que a implementação do projeto não é possível, as limitações são:
     <ol> lâmpada LED, que é representada por um simples LED amarelo e um potenciômetro que altera sua intensidade luminosa;</ol>
